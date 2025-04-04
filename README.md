@@ -51,7 +51,7 @@
 
 ***
 
-# Katie's Guides
+# Achievements
 
 ## 📚 SQL Resources
 
