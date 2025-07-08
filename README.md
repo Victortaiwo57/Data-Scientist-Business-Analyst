@@ -4,14 +4,6 @@
 
 🚀Welcome to my data portfolio — a curated collection showcasing my journey, skills, and hands-on projects in the field of data science and analytics 🚀.
 
-## 📚 Table of Contents
-- [🙋About](#about)
-- [SQL](#sql)
-- [Power BI](#power-bi)
-- [Python](#python)
-- [Machine Learning AI](#machine-learning-ai)
-- [Achievements](#achievements)
-
 # 🙋About
 <table>
   <tr>
@@ -33,6 +25,13 @@
     </td>
   </tr>
 </table>
+
+## 📚 Table of Contents
+- [SQL](#sql)
+- [Power BI](#power-bi)
+- [Python](#python)
+- [Machine Learning AI](#machine-learning-ai)
+- [Achievements](#achievements)
 
 # SQL
 
