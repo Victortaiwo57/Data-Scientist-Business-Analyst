@@ -4,13 +4,21 @@
 
 🚀Welcome to my data portfolio — a curated collection showcasing my journey, skills, and hands-on projects in the field of data science and analytics 🚀.
 
+## 📚 Table of Contents
+- [About](#about)
+- [SQL](#sql)
+- [Power BI](#power-bi)
+- [Python](#python)
+- [Machine Learning & AI](#machine-learning-&-ai)
+- [Achievements](#achievements)
+
+# 🙋 About
 <table>
   <tr>
     <td width="40%">
       <img src="https://github.com/Victortaiwo57/Data-Scientist/blob/main/Victor_.jpg" width="100%">
     </td>
     <td width="60%">
-      <h2>🙋 About</h2>
       <p>
         I am a results-driven IT Business Analyst and Data Scientist with over 4 years of experience delivering innovative, data-powered solutions that fuel business growth, streamline operations, and unlock strategic value.
         I specialize in translating complex business needs into actionable insights, with a proven track record in ERP optimization, stakeholder engagement, and end-to-end process improvement.
@@ -25,13 +33,6 @@
     </td>
   </tr>
 </table>
-
-
-## 📚 Table of Contents
-- [SQL](#sql)
-- [Power BI](#power-bi)
-- [Python](#python)
-- [Machine Learning & AI](#ml_projects)
 
 # SQL
 
