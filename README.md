@@ -5,14 +5,14 @@
 🚀Welcome to my data portfolio — a curated collection showcasing my journey, skills, and hands-on projects in the field of data science and analytics 🚀.
 
 ## 📚 Table of Contents
-- [About](#about)
+- [🙋About](#about)
 - [SQL](#sql)
 - [Power BI](#power-bi)
 - [Python](#python)
-- [Machine Learning & AI](#machine-learning-&-ai)
+- [Machine Learning AI](#machine-learning-ai)
 - [Achievements](#achievements)
 
-# 🙋 About
+# 🙋About
 <table>
   <tr>
     <td width="40%">
@@ -58,7 +58,7 @@
 
 ***
 
-# Machine Learning & AI
+# Machine Learning AI
 
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
