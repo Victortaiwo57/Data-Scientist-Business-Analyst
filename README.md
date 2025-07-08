@@ -29,7 +29,7 @@
 
 ## 📚 Table of Contents
 - [SQL](#sql)
-- [Power BI](#power_bi)
+- [Power BI](#power-bi)
 - [Python](#python)
 - [Machine Learning & AI](#ml_projects)
 
