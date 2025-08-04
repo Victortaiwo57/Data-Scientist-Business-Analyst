@@ -54,6 +54,8 @@
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|  
 | 🛣️ [Reconciliation Platform](https://github.com/Victortaiwo57/reconciliation-app) | Automation | This app streamlines financial record-keeping in schools and training institutes by providing a secure, centralized platform to track enrollee payments and purchases. It features a clean, user-friendly interface with filters, confirmation dialogs, and export options—making it ideal for bursars, account officers, and admin staff seeking accurate and efficient reconciliation. | logging, shiny, datetime, pandas |   
+| 🛣️ [Skin Care Product Web Scraping](https://github.com/Victortaiwo57/Skin-Care-Product-Web-Scraping) | Web Scraping | This project focuses on web scraping cosmetic product data from a static online store and analyzing similarities in their ingredient compositions. The goal is to discover how many products share ingredients and to group products based on overlapping formulations.
+ | Beautifulsoap, requests, pandas, plotly|   
 
 ***
 
@@ -62,7 +64,7 @@
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|
 | 🛣️ [Vehicle Mileage Extraction](https://github.com/Victortaiwo57/Image-text) | Image to Text | This application allows users to snap a photo of their vehicle's dashboard, and the system will automatically extract only the current vehicle mileage using OCR (Optical Character Recognition). It is designed to ensure accurate mileage logging for operational tracking and recordkeeping. | cv2, easyocr |   
-| 🛣️ [Communication Test Grader](https://github.com/Victortaiwo57/Communication-Skill-Grader) | Word Processing | This project is a lightweight tool designed to automatically evaluate written communication tests. It scores user responses based on grammar, spelling, structure, clarity, tone, and overall communication effectiveness. | Pandas, NLP, Regex |  
+| 🛣️ [Communication Test Grader]() | Word Processing | This project is a lightweight tool designed to automatically evaluate written communication tests. It scores user responses based on grammar, spelling, structure, clarity, tone, and overall communication effectiveness. | Pandas, NLP, Regex |  
 
 
 ***
