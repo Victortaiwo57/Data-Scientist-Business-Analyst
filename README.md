@@ -54,8 +54,7 @@
 | Project Link | Area | Project Description | Libraries |    
 |---|---|---|---|  
 | 🛣️ [Reconciliation Platform](https://github.com/Victortaiwo57/reconciliation-app) | Automation | This app streamlines financial record-keeping in schools and training institutes by providing a secure, centralized platform to track enrollee payments and purchases. It features a clean, user-friendly interface with filters, confirmation dialogs, and export options—making it ideal for bursars, account officers, and admin staff seeking accurate and efficient reconciliation. | logging, shiny, datetime, pandas |   
-| 🛣️ [Skin Care Product Web Scraping](https://github.com/Victortaiwo57/Skin-Care-Product-Web-Scraping) | Web Scraping | This project focuses on web scraping cosmetic product data from a static online store and analyzing similarities in their ingredient compositions. The goal is to discover how many products share ingredients and to group products based on overlapping formulations.
- | Beautifulsoap, requests, pandas, plotly|   
+| 🛣️ [Skin Care Product Web Scraping](https://github.com/Victortaiwo57/Skin-Care-Product-Web-Scraping) | Web Scraping | This project focuses on web scraping cosmetic product data from a static online store and analyzing similarities in their ingredient compositions. The goal is to discover how many products share ingredients and to group products based on overlapping formulations. | Beautifulsoap, requests, pandas, plotly|   
 
 ***
 
