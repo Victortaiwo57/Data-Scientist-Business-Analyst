@@ -46,7 +46,6 @@
 | Project Link | Project Description | 
 |---|---|
 | 🚗 [E-Hailing 2022 Report](https://github.com/Victortaiwo57/E-hailing-2022-Report/tree/main) | This repository contains four interactive dashboards designed to provide key insights into both driver operations and overall business performance. Built to guide strategic decision-making, the dashboards cover real-time KPIs, financial health, and performance benchmarking across the year | 
-
 | 🚗 [Sale Analytics](https://github.com/Victortaiwo57/Product-Analytic/tree/main) | This project simulates a B2B sales pipeline for a multi-region company (Europe, North America, Asia-Pacific, Latin America) across seven industries. The goal was to design a report that three different audiences could use without modification | 
 ***
 
