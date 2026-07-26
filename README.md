@@ -47,6 +47,9 @@
 |---|---|
 | 🚗 [E-Hailing 2022 Report](https://github.com/Victortaiwo57/E-hailing-2022-Report/tree/main) | This repository contains four interactive dashboards designed to provide key insights into both driver operations and overall business performance. Built to guide strategic decision-making, the dashboards cover real-time KPIs, financial health, and performance benchmarking across the year | 
 
+| Project Link | Project Description | 
+|---|---|
+| 🚗 [E-Hailing 2022 Report](https://github.com/Victortaiwo57/E-hailing-2022-Report/tree/main) | This repository contains four interactive dashboards designed to provide key insights into both driver operations and overall business performance. Built to guide strategic decision-making, the dashboards cover real-time KPIs, financial health, and performance benchmarking across the year | 
 ***
 
 # Python
