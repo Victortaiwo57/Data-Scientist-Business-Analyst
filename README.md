@@ -1,5 +1,3 @@
-
-
 # 🚀 Victor's Portfolio
 
 🚀Welcome to my data portfolio — a curated collection showcasing my journey, skills, and hands-on projects in the field of data science and analytics 🚀.
@@ -31,6 +29,7 @@
 - [Power BI](#power-bi)
 - [Python](#python)
 - [Machine Learning AI](#machine-learning-ai)
+- [Computer Vision & Road Safety Research](#computer-vision--road-safety-research)
 - [Achievements](#achievements)
 
 # SQL
@@ -65,6 +64,19 @@
 | 🛣️ [Vehicle Mileage Extraction](https://github.com/Victortaiwo57/Image-text) | Image to Text | This application allows users to snap a photo of their vehicle's dashboard, and the system will automatically extract only the current vehicle mileage using OCR (Optical Character Recognition). It is designed to ensure accurate mileage logging for operational tracking and recordkeeping. | cv2, easyocr |   
 | 🛣️ [Communication Test Grader]() | Word Processing | This project is a lightweight tool designed to automatically evaluate written communication tests. It scores user responses based on grammar, spelling, structure, clarity, tone, and overall communication effectiveness. | Pandas, NLP, Regex |  
 
+
+***
+
+# Computer Vision & Road Safety Research
+
+Road traffic kills about 1.19 million people a year, and more than half are pedestrians, cyclists and motorcyclists ([WHO, 2023](https://www.who.int/publications/i/item/9789240086517)). These four projects use computer vision and vision foundation models to understand road users: what is on the road, what people will do next, where drivers look, and how realistic simulated road users are. Each one is a live Streamlit app with a README covering its importance, use cases, environment, method and limitations.
+
+| Project Link | Area | Project Description | Libraries | Live App |
+|---|---|---|---|---|
+| 🚦 [RoadMind Lite](https://github.com/Victortaiwo57/roadmind-lite) | Object Detection | A baseline app that detects road users (pedestrians, cars, motorcycles, buses, traffic lights) in an uploaded road image with a pretrained YOLO11n model, and reports class counts, confidence scores, bounding boxes and a downloadable CSV. It is the first step towards understanding road-user behaviour, which the next three projects build on. | streamlit, ultralytics (YOLO), pandas | [Open app](https://roadmind-lite.streamlit.app) |
+| 🚶 [Will This Pedestrian Cross?](https://github.com/Victortaiwo57/crossing-intent-fm) | Behaviour Prediction | Predicts from a car's dashcam whether a pedestrian will step into the road about one second before it happens, and tests whether frozen features from a vision foundation model (DINOv2) reveal intent cues, such as a head turn, that motion alone misses. The live demo trains a motion-only model and a motion + appearance model in the browser and shows how far ahead each one can predict. Planned experiment: JAAD dataset, plus a test on Lagos dashcam footage. | streamlit, scikit-learn, numpy, pandas, matplotlib (experiment: PyTorch, DINOv2) | [Open app](https://crossing-intent-fm.streamlit.app) |
+| 👁️ [Where Do Drivers Look?](https://github.com/Victortaiwo57/driver-attention-fm) | Driver Attention | Models where human drivers focus their attention, using a frozen DINOv2 encoder with a small decoder trained on real gaze maps, and measures which road users the model under-attends compared with people. The live demo is a playground for the four standard attention metrics (KLD, CC, SIM, NSS). It shows why a "look straight ahead" baseline is hard to beat, and how averaged scores can hide a missed pedestrian. Planned experiment: BDD-A gaze dataset. | streamlit, numpy, pandas, matplotlib, pillow (experiment: PyTorch, DINOv2, YOLO) | [Open app](https://driver-attention-fm.streamlit.app) |
+| 🧪 [How Realistic Are Simulated Pedestrians?](https://github.com/Victortaiwo57/sim2real-road-users) | Simulation Realism | A measurable test of the sim-to-real gap: a classifier tries to tell simulated pedestrians (CARLA) from real ones (inD), with a real-vs-real control and held-out evaluation. The benchmark runs live in the app, with sliders to make simulated walkers more human-like and an upload option for your own trajectory data. It shows that much of an apparent gap can come from tracker noise and map layout rather than behaviour. | streamlit, scikit-learn, scipy, numpy, pandas, matplotlib | [Open app](https://sim2real-road-users.streamlit.app) |
 
 ***
 
